@@ -1,4 +1,4 @@
-# CS50X 2023 --> Introduction to Computer Science ![Stars](https://img.shields.io/github/stars/sana-zarei/CS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/sana-zarei/CS50P?label=Watchers)
+# CS50X 2023 --> Introduction to Computer Science ![Stars](https://img.shields.io/github/stars/sana-zarei/CS50X?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/sana-zarei/CS50X?label=Watchers)
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
 ### These are my solutions for CS50X Introduction to Computer Science 2023.
 ### Final Project : [Blog + New Admin Panel + Django](#)
